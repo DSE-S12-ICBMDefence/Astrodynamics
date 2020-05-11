@@ -5,7 +5,6 @@ ___
 
 _A list of my commonly used Git commands_
 
---
 ## GitHub Desktop
 ### Important Commands
 
