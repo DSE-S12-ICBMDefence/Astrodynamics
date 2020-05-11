@@ -1,8 +1,6 @@
 # Astrodynamics
 
 ## Git Commands
-============
-
 ___
 
 _A list of my commonly used Git commands_
