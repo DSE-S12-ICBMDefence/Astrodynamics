@@ -1,6 +1,6 @@
 # Astrodynamics
 
-Git Commands
+## Git Commands
 ============
 
 ___
