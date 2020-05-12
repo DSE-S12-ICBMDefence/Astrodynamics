@@ -31,5 +31,9 @@ pixel_width = 1000
 pixel_height = 1000
 width = res*pixel_width
 height = res*pixel_height
-inc = math.pi/2-2*math.pi/(2*math.pi*Re)*(width/2)
-print(inc*180/math.pi)
+number_of_images = 1
+inc = math.pi/2-2*math.pi/(2*math.pi*Re)*(width/2*number_of_images)
+
+print("Inclination [deg]: ",inc*180/math.pi)
+
+
